@@ -10,10 +10,11 @@ Creates a color fade technique made popular by 37signals' Yellow Fade Technique
 
 USAGE:
 
-color_fade({from:"yellow",to"white",speed:500})
- - from : color that element will fade from, can use hex or color code
- - to : color that element will fade to, can use hex or color code
- - speed : the speed of the animation
+      color_fade({from:"yellow",to"white",speed:500})
+
+      - from : color that element will fade from, can use hex or color code
+      - to : color that element will fade to, can use hex or color code
+      - speed : the speed of the animation
 
 EXAMPLES:
 
